@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ProgramãoDoRodolfo</string>
+
+    <string-array name="signo">
+        <item>Áries</item>
+        <item>Touro</item>
+        <item>Gêmeos</item>
+        <item>Câncer</item>
+        <item>Leão</item>
+        <item>Virgem</item>
+        <item>Libra</item>
+        <item>Escorpião</item>
+        <item>Sagitário</item>
+        <item>Capricórnio</item>
+        <item>Aquário</item>
+        <item>Peixes</item>
+    </string-array>
+
+
+    <string-array name="listinha">
+        <item>Amizade</item>
+        <item>Namoro</item>
+        <item>Casamento</item>
+        <item>Arqui-inimigo</item>
+        <item>Surpresa</item>
+    </string-array>
+
+</resources>
