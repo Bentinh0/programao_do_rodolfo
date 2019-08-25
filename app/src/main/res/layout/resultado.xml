@@ -54,4 +54,17 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/voltar"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:onClick="voltarParaaPrimeiraTela"
+        android:text="VOLTE PARA O INÍCIO"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.973"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.992" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
