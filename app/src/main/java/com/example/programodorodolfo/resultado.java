@@ -27,7 +27,7 @@ public class resultado extends AppCompatActivity {
     }
 
     public void voltarParaaPrimeiraTela(View view) {
-        Intent intent = new Intent(this, segundatela.class);
+        Intent intent = new Intent(this, primeiratela.class);
         startActivity(intent);
     }
 }
